@@ -1,6 +1,6 @@
 import {} from "react-router-dom"
 import React from 'react';
-import Home from './Home.js';
+import Home from './Home';
 
 const App = () => {
     return(
